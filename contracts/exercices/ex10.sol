@@ -10,6 +10,8 @@ In this exercice, you need to:
 - Analyze events
 - Use a function 
 - Your points are credited by the contract
+
+DONE
 */
 
 /*
