@@ -12,6 +12,8 @@ In this exercice, you need to:
 /*
 What you need to know to complete this exercice
 
+DONE
+
 A) Create a wallet using Metamask (http://metamask.io)
 
 */
