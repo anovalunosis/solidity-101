@@ -11,6 +11,7 @@ In this exercice, you need to:
 - Use Etherscan to analyse this event
 - Use a function to show you know the correct value of a private variable
 - Your points are credited by the contract
+DONE
 */
 
 /*
